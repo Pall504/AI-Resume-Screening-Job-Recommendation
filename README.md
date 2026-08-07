@@ -51,16 +51,6 @@ or
 streamlit run app.py
 ```
 
-## Screenshots
 
-( screenshots here.)
-
-## Demo Video
-
-Paste  YouTube or Google Drive link here.
-
-
-
-## Author
 
 Your Name
